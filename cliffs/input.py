@@ -32,7 +32,3 @@ class InputHandler:
         self.new_keystrokes.append(keystroke)
         # accept the keystroke as handled
         return True
-
-    def get_keystrokes(self):
-        old_keystrokes, self.new_keystrokes = self.new_keystrokes, []
-        return old_keystrokes
