@@ -1,0 +1,39 @@
+CopyRite(C) 1992 Peter Waksman
+
+
+
+        The Game Rationale
+
+                Games are fun which simulate an activity which is fun;
+                like exploring, fighting, flying, playing ball, or (as in 
+                the case  of "Attack the Cliffs") climbing. A computer 
+                climbing game would be the most natural game imaginable.
+                IF YOU CAN GET THE KEYSTROKES RIGHT! (see below)
+
+                There is a fascination in mountaineering literature: the 
+                drama of the rising action, climax and falling action. 
+                The danger. The accidents: escape from them or tragedy.
+
+                The innumerable scenarios and subplots.
+                
+                The possibility of describing actual climbs such as the 
+                Eiger north face.
+
+                Markets in sporting goods stores as well as software 
+                stores; opening up new distribution channels.
+
+        The Keystrokes and Interface
+                
+                The kestrokes are not easy at first, there is an athleticism
+                or dexterity needed to get up a cliff in the time allowed. 
+                It is also like playing the piano. It takes a while to learn,
+                and this is contrary to some computer game philosophies.
+                However these difficult keystrokes attempt to simulate the 
+                difficult climbing moves which make climbing interesting.
+
+        By the way, I consider the keystrokes to be the main copywritable
+        concept in this game. Explicitly: I believe that "factoring" the
+        movement into a direction choice (the arrow keys) and a +/- choice
+        (made by the pair of keys for each limb) is an elegant solution
+        to how to control stick figures from the keyboard.
+

@@ -1,0 +1,144 @@
+E
+                ************  ATTACK THE CLIFFS  ************
+                  ***********  QUICK REFERENCE  ***********
+
+                        CopyRite(C) 1992 Peter Waksman
+
+        <esc>    quit
+        <F1>     select PeterB
+        <F2>     select DougalH
+        <arrow>  select direction
+
+        To move use:
+
+                left   <q>                          right        <p>
+                hand     <a>                        hand       <l>
+                    left   <s>                 right         <k>   
+                    foot     <x>               foot        <m>
+
+        To belay rope to man use:
+
+                left     <w>                   right    <o>
+                hand                           hand
+                               body  <b>
+
+        To belay rope to ledge use:
+
+                left     <e>                   right    <i>
+                hand                           hand
+
+        Note1: To be supported the man must have either the rope attached
+        or a leg and some other limb. For example 2 arms and no rope will
+        not support.
+
+        Note2: The color of a belay dot determines if the attachment is a 
+        fixed knot or a sliding one:  yellow=fixed  blue=sliding.
+
+        Note3: You can only climb up the rope when your arms are centered.
+
+        Note4: You can hit movement keys simultaneously for moving limbs
+        simultaneously; also you can hit keys quickly in sucession to make
+        complex movements.
+
+F
+E
+                         "Attack The Cliffs" MANUAL
+                        CopyRite(C) 1992 Peter Waksman
+                                   
+
+THE MOVING MAN:
+                In the game the moving man is highlighted in yellow, you
+        can select which man to move: using <F1> to select PeterB and 
+        <F2> to select DougalH.
+
+THE MOVEMENT DIRECTION:
+                Select a direction of movement using the arrow keys
+        (left, right, up or down). An arrow displayed on the lower 
+        right of the screen shows the current movement direction.
+        When the movement direction is up or down it is said to be 
+        a "vertical" direction; when the movement direction is left or 
+        right it is called a "horizontal" direction.
+
+MOVEMENT KEYS:
+                Each limb is controlled by its own pair of keys. These
+        two keys will move the limb up and down (if moving in a vertical
+        direction) or left and right (if moving in a horizontal direction).
+        The four pairs of keys are as follows:
+
+                 q                            p
+                  a   s                  k   l
+                        x              m
+
+       Where:
+                q = left hand up (out)
+                a = left hand down (in)
+
+                s = left foot up (out)
+                x = left foot down (in)
+
+                p = right hand up (out)
+                l = right hand down (in)
+
+                k = right foot up (out)
+                m = right foot down (in)
+
+
+BELAY KEYS:
+                To attach the rope to the moving man or to a ledge use
+        the following "belay" keys. Hitting the same key a second time
+        will either release the rope or turn a fixed belay into a sliding
+        one. Each belay is represented by a colored dot. Dots on the
+        ledges represent "pitons". Dots at the bottom of the screen next
+        the names of the men represent the status of (respectively) the 
+        left hand, body and right hand. Blue dots represent belays which 
+        are sliding, yellow dots represent belays which are fixed. These
+        keys are:
+
+                 w  e                  i o
+
+                              b
+
+         Where:
+                w = left hand grasp/release rope
+                e = left hand attach rope and piton to ledge
+
+                b = body grasp/release rope
+
+                o = right hand grasp/release rope
+                i = right hand attach rope and piton to ledge
+
+
+QUITTING:
+                Hit <esc> to quit.
+
+
+RULES OF SUPPORT:
+                In order to climb safely with no rope you need to always 
+        have at least one foot and one other limb touching a ledge. When you 
+        are tied fast to the rope it will give all the support you need to 
+        stay up. However, if you are tied only by a sliding belay, it will 
+        not support you.
+                You may want to raise and lower the rope ends, different
+        effects result from different uses of the body belay: fixed, sliding
+        or off.
+                If you fall on the rope and swing, you can climb back up 
+        the rope, but your arms must be centered. At the extremity of each
+        swing you have a chance to make a grab for something.
+
+LEDGES:
+        The ledges used are contained in a file called "ledges".
+        If you wish to try differnt ledges, use the editor ed.exe
+        to create new ledges. Rename the resulting file "ledges",
+        and it will replace the old ledges with the new one.
+        Two sample ledges are included: ledges and ledges.tmp
+        Try copying ledges.tmp to ledges. Try getting up that!
+
+
+HINTS:
+                - Use simultaneous limb movements
+                - When stuck, try double clicking movement keys.
+                - Try using the rope creatively.
+
+F
+
+
