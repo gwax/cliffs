@@ -1,3 +1,3 @@
-from cliffs.app import CliffsApp
+import cliffs.cliffs
 
-CliffsApp().run()
+cliffs.cliffs.main()

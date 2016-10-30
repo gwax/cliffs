@@ -44,6 +44,7 @@ class InputBuffer:
 
     def _on_key_down(self, keyboard, keycode, text, modifiers):
         keystroke = KeyStroke(*keycode)
+        print(keystroke)
 
         # TODO: ignore other special keystrokes
         if keystroke.character == 'escape':
